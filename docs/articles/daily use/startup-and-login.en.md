@@ -1,6 +1,6 @@
 #Startup and login
 
-The site manager creates user and gives user access at a basic or advanced level. Login information is provided by the site manager. The site manager receives access and login information from AKVA engineer. The AKVAconnect address is provided by AKVA engineer. Log in by entering the given username and password. By clicking Remember Me, logging in is simplified next time by using Quick Log In at the bottom of the page (Note: Can’t be used by the location manager).
+The- site manager creates user and gives user access at a basic or advanced level. Login information is provided by the site manager. The site manager receives access and login information from AKVA engineer. The AKVAconnect address is provided by AKVA engineer. Log in by entering the given username and password. By clicking Remember Me, logging in is simplified next time by using Quick Log In at the bottom of the page (Note: Can’t be used by the location manager).
 
 ![Login screen](../../img/2.jpg)
 
