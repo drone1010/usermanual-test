@@ -1,0 +1,60 @@
+site_name: AKVA connect User Manual
+theme: 
+  name: material
+  logo: img/fish-light.svg
+  favicon: img/favicon.ico
+  features:
+    - navigation.tabs
+extra_css:
+  - css/extra.css
+nav:
+    - Installation:
+        - 'Installation': 'articles/installation/installation.md'
+    - System setup:
+        - 'Equipment setup': 'articles/system setup/equipment-setup.md'
+        - 'Conveyor': 'articles/system setup/conveyor.md'
+        - 'Feeding': 'articles/system setup/feeding.md'
+        - 'Locations': 'articles/system setup/locations.md'
+        - 'Sensor data': 'articles/system setup/sensor-data.md'
+    - Daily use:
+        - 'Startup and login': 'articles/daily use/startup-and-login.md'
+        - 'System requirements': 'articles/daily use/system-requirements.md'
+plugins:
+  - search:
+      lang: 
+        - en
+        - nb
+  - i18n:
+      default_language: en
+      docs_structure: suffix
+      languages:
+        en:
+          name: English
+          build: true
+          site_name: "AKVA connect User Manual"
+        nb:
+          name: Norsk
+          build: true
+          site_name: "AKVA connect Brukermanual"
+      nav_translations:
+        nb:
+          Index: Hjem
+          Home: Hjem
+          Installation: Installasjon
+          System setup: Systemoppsett
+          Equipment setup: Utstyrsoppsett
+          Conveyor: Conveyor
+          Feeding: Fôring
+          Locations: Lokasjoner
+          Sensor data: Sensordata
+          Daily use: Daglig bruk
+          Startup and login: Oppstart og innlogging
+          System requirements: Systemkrav
+          Print: Skriv ut
+  - print-site:
+        add_to_navigation: false
+        print_page_title: 'AKVA connect'
+extra:
+  generator: false
+copyright: Copyright &copy; 2023 AKVA group
+

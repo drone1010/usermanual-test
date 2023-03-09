@@ -1,0 +1,3 @@
+Utstyrsoppsett brukes for å koble AKVA connekt til hardware som er installert på lokaliteten. Det består av fire faner...
+
+![Screenshot](../../img/6.png)

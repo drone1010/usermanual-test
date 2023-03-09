@@ -1,0 +1,10 @@
+
+img {
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+:root {
+  --md-primary-fg-color:        #182025;
+}

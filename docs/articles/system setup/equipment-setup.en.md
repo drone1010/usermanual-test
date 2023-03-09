@@ -1,0 +1,3 @@
+The equipment setup is used to map AKVA connect with the hardware on site. It consists of four tabs...
+
+![Screenshot](../../img/6.png)
