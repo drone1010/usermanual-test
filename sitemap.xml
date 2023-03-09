@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None./</loc>
+         <lastmod>2023-03-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="nb" href="Nonenb/"/>
+         
+    </url>
+    <url>
+         <loc>Nonearticles/daily%20use/startup-and-login/</loc>
+         <lastmod>2023-03-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/articles/daily%20use/startup-and-login/"/>
+         <xhtml:link rel="alternate" hreflang="nb" href="Nonenb/articles/daily%20use/startup-and-login/"/>
+         
+    </url>
+    <url>
+         <loc>Nonearticles/daily%20use/system-requirements/</loc>
+         <lastmod>2023-03-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/articles/daily%20use/system-requirements/"/>
+         <xhtml:link rel="alternate" hreflang="nb" href="Nonenb/articles/daily%20use/system-requirements/"/>
+         
+    </url>
+    <url>
+         <loc>Nonearticles/installation/installation/</loc>
+         <lastmod>2023-03-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/articles/installation/installation/"/>
+         <xhtml:link rel="alternate" hreflang="nb" href="Nonenb/articles/installation/installation/"/>
+         
+    </url>
+    <url>
+         <loc>Nonearticles/system%20setup/equipment-setup/</loc>
+         <lastmod>2023-03-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/articles/system%20setup/equipment-setup/"/>
+         <xhtml:link rel="alternate" hreflang="nb" href="Nonenb/articles/system%20setup/equipment-setup/"/>
+         
+    </url>
+</urlset>
